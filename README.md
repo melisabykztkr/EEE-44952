@@ -1,2 +1,2 @@
-# EEE-44952
+# image generation
 graduation project - image generation 
